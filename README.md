@@ -1,4 +1,4 @@
-
+This is a portfolio site for David Fingal.
 
 
 #background header inspiration and code help
